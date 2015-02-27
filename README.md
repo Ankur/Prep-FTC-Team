@@ -1,4 +1,4 @@
-# Prep-FTC-Team
+# FTC for Prep
 
 ## Why
 
