@@ -11,3 +11,6 @@
 * Give Prep students opportunities to get involved in learning about STEM.
 
 ## What
+
+Creating a First Tech Challenge(FTC) team at Prep
+
