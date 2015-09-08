@@ -41,5 +41,6 @@ September - March
 * Build
 * Attend tournaments
 
-Expenses Involved
-![](http://i.imgur.com/fInhLYl.jpg)
+## Expenses
+* Approximately $2000
+* Includes Registration and Kit of Parts(Tetrix Kit)
