@@ -14,7 +14,7 @@ FIRST Tech Challenge (FTC) is a student-centered activity that focuses on giving
 ## Why
 
 * Our goal is to open doors for our community, and get others to get involved in innovation, science, and an explorative mindset.
-* Help our student body recognize the importance of engineering.
+* Create an opportunity for the student body to immerse itself in engineering.
 
 ## How
 
@@ -25,8 +25,8 @@ FIRST Tech Challenge (FTC) is a student-centered activity that focuses on giving
 
 * Organized meetings
 * Have a goal to work towards
-* Have opportunities for newer members to learn
-* Learning by doing
+* Have opportunities for newer members to learn by
+* Learning by building and doing
 
 ## Season Timeline
 
