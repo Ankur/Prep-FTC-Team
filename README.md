@@ -40,3 +40,6 @@ September - March
 * Practice
 * Build
 * Attend tournaments
+
+Expenses Involved
+![](http://i.imgur.com/fInhLYl.jpg)
