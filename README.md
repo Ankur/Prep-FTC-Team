@@ -23,10 +23,9 @@ FIRST Tech Challenge (FTC) is a student-centered activity that focuses on giving
 
 ## Differences from Current Robotics Club
 
-* Organized meetings
-* Have a goal to work towards
-* Have opportunities for newer members to learn by
-* Learning by building and doing
+* More organized meetings since there is a goal to work towards
+* Have opportunities for newer members to learn by working on new designs and exercising their creativity
+* Learning by building and doing - hands on approach for everyone
 
 ## Season Timeline
 
