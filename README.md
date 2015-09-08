@@ -14,7 +14,7 @@ FIRST Tech Challenge (FTC) is a student-centered activity that focuses on giving
 ## Why
 
 * Our goal is to open doors for our community, and get others to get involved in innovation, science, and an explorative mindset.
-* Create an opportunity for the student body to immerse itself in engineering.
+* Create an opportunity for the Flintridge Prep student body to immerse itself in engineering.
 
 ## How
 
